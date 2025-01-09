@@ -73,8 +73,6 @@
 import { ref } from 'vue';
 
 const modalOpen = ref(false);
-
-// Function to open the modal
 const openModal = () => {
     modalOpen.value = true;
 };
