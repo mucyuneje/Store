@@ -77,7 +77,7 @@ const openModal = () => {
     modalOpen.value = true;
 };
 
-// Function to close the modal
+
 const closeModal = () => {
     modalOpen.value = false;
 };
